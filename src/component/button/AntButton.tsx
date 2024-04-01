@@ -27,4 +27,20 @@ const AntButton = () => {
   )
 }
 
+  {/* 
+            Pros 
+            *Komprehensif dan Konsisten
+            *Desaign bisa lebih mudah dalam melakukan responsive
+            *Aktif dalam pengembangan dan didukung
+            *Mudah diimplementasikan kedalam komponen
+            
+            
+            Cons
+            *Lambat dalam mengimplementasikan desaign terhadap object
+            *Ukuran file jadi lebih besar 
+            *Keterbatasan dalam kustomisasi 
+            *Perlu memahami konsep utility-first  
+
+              */}
+
 export default AntButton

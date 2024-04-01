@@ -14,4 +14,19 @@ const MaterialtailwindInput = () => {
   )
 }
 
+ {/* Pros
+          *Materialtailwind lebih mudah diapplikasikan karena relevan dengan style yang digunakan
+          *Dokumentasi yang jelas, props yang mudah dipahami 
+          *Banyak framework yang bisa mengimplementasikan style dari tailwindcss
+          *Side component dari accordation sampai table bisa langsung diimplementasikan \
+          
+          Cons
+          *Tidak cocok dalam semua proyek
+          *Terlalu bergantung dengan tailwindcss
+          *Kurang akan fitur yang kompleks
+
+          */}
+
+  
+
 export default MaterialtailwindInput

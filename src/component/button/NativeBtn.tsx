@@ -2,7 +2,6 @@ import React from "react"
 export const NativeBtn = () => {
   return (
     <>  
-        {/* Native btn bisa untuk menggunakan utilize yang lebih bebas  */}
         <div className="flex flex-col mt-[25px] items-center justify-center content-center">
             <h1 className="font-bold text-4xl mt-[25px] uppercase text-center">native button</h1>
             <div className="w-full items-center justify-center pt-2 flex">
@@ -13,5 +12,20 @@ export const NativeBtn = () => {
     </>
   )
 }
+
+{/* 
+            Pros 
+            *Native button bisa untuk menggunakan utilize yang lebih bebas
+            *Mudah diimplementasi kedalam desaign komponen
+            *Tingkat konsistensi yang tinggi dengan tailwindcss
+            *Ringan
+            
+            Cons
+            *Lambat dalam mengimplementasikan desaign terhadap object
+            *Ukuran file jadi lebih besar 
+            *Keterbatasan dalam kustomisasi 
+            *Perlu memahami konsep utility-first  
+
+              */}
 
 export default NativeBtn
